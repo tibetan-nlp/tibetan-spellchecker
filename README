@@ -56,9 +56,16 @@ Prerequisites
 The files have been tested with hunspell 1.3.2, but should work with previous
 versions.
 
+Firefox has been tested only with version 21.
+
 
 License
 -------------------------------------------------------------------------------
+
+The file firefox/icon.png has been generated from 
+https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Tibet.svg
+and is thus in the Public Domain (as stated on 
+https://en.wikipedia.org/wiki/File:Flag_of_Tibet.svg)
 
 This work and the derived files are under the Creative Commons CC0 license,
 which is as close to public domain as possible in the country of the authors.
