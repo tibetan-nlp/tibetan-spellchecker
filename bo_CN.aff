@@ -1,0 +1,30 @@
+SET UTF-8
+LANGCODE bo_CN
+# Currently, we consider an unbreakable tshegs to break words. In a future
+# version, it might be good to remove it, and to have also words of two 
+# syllables in the dictionnary (much more complex to extract)
+BREAK 8
+BREAK ་
+BREAK ˆ་
+BREAK ་$
+BREAK ˆ།
+BREAK །$
+BREAK ༌
+BREAK ˆ༌
+BREAK ༌$
+
+WORDCHARS ༠༡༢༣༤༥༦༧༨༩།༈༄༅༏་
+
+# for words with no suffix or with suffix འུ
+SFX A Y 5
+SFX A 0 འི .
+SFX A 0 འིའོ .
+SFX A 0 འོ .
+SFX A 0 ར .
+SFX A 0 ས .
+
+# for words with suffix འ
+SFX B Y 3
+SFX B འ འི འ
+SFX B འ འིའོ འ
+SFX B འ འོ འ
