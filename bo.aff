@@ -15,16 +15,26 @@ BREAK ༌$
 
 WORDCHARS ༠༡༢༣༤༥༦༧༨༩།༈༄༅༏་
 
-# for words with no suffix or with suffix འུ
-SFX A Y 5
+# for words with no suffix
+SFX A Y 7
 SFX A 0 འི .
 SFX A 0 འིའོ .
 SFX A 0 འོ .
 SFX A 0 ར .
 SFX A 0 ས .
+SFX A 0 འང
+SFX A 0 འམ
 
 # for words with suffix འ
-SFX B Y 3
+SFX B Y 5
 SFX B འ འི འ
 SFX B འ འིའོ འ
 SFX B འ འོ འ
+SFX B འ འང འ
+SFX B འ འམ འ
+
+# for words with suffix འུ
+SFX C Y 3
+SFX C འུ འུའི འུ
+SFX C འུ འུའིའོ འུ
+SFX C འུ འུའོ འུ
