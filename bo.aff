@@ -33,8 +33,12 @@ SFX B འ འོ འ
 SFX B འ འང འ
 SFX B འ འམ འ
 
-# for words with suffix འུ
-SFX C Y 3
-SFX C འུ འུའི འུ
-SFX C འུ འུའིའོ འུ
-SFX C འུ འུའོ འུ
+# for words with suffix འུ (the rules are the same as when there is no suffix)
+SFX C Y 7
+SFX A 0 འི .
+SFX A 0 འིའོ .
+SFX A 0 འོ .
+SFX A 0 ར .
+SFX A 0 ས .
+SFX A 0 འང
+SFX A 0 འམ
