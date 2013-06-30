@@ -19,6 +19,6 @@
       </Description>
     </em:targetApplication>
     <em:name>Tibetan Spellcheck</em:name>
-    <em:description>Tibetan (bo) spellchecker, should be quite accurate with Dzongkha too.</em:description>
+    <em:description>Tibetan (bo) spellchecker.</em:description>
   </Description>
 </RDF>

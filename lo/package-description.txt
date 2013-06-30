@@ -4,7 +4,7 @@ level (not composed words).
 The syllables come from the Bod rgya tshik mdzod chen mo
 dictionnary, with sanskrit syllables removed.
 
-The following people have contributed to this package:
+Xavier Faure <suizokukan@orange.fr> and Elie Roux
+<elie.roux@telecom-bretagne.eu> contributed to this package.
 
-Xavier Faure             <suizokukan@orange.fr>
-Elie Roux                <elie.roux@telecom-bretagne.eu>
+You can file bugreports at https://github.com/eroux/tibetan-spellchecker/issues

@@ -13,18 +13,18 @@ Bod rgya tshik mdzod chen mo dictionnary, excepting the syllable not conform
 to standard tibetan grammar rules, so Sanskrit translitteration is not included.
 
 Tibetan Grammar rules have been taken mainly from:
- - /Manuel de Tibétain Standard/ by Nicolas Tournadre
- - /Le clair mirroir/ by Kesang Gyurmé, translation of Nicolas Tournadre
- - /The Illuminator Dictionnary/ by Tony Duff
+ - "Manuel de Tibétain Standard" by Nicolas Tournadre
+ - "Le clair mirroir" by Kesang Gyurmé, translation of Nicolas Tournadre
+ - "The Illuminator Dictionnary" by Tony Duff
  - http://www.thlib.org/reference/transliteration/tibstacks.php
- - An Introduction to the Grammar of the Tibetan Language (Chandra Das)
+ - "An Introduction to the Grammar of the Tibetan Language" by Chandra Das
    available at http://archive.org/details/grammaroftibetan00dass
 
-The bo_CN.dic file is in alphabetical order (the order used is the one presented
+The bo.dic file is in alphabetical order (the order used is the one presented
 in /The Illuminator Dictionnary/), and could be used as a reference.
 
 
-Limitations
+Limitations and Bugs
 -------------------------------------------------------------------------------
 Some very common words of sanskrit translitterations are not present but might
 be in the near future, words like པ་དྨ་ or ཀརྨ་.
@@ -33,6 +33,9 @@ Only single syllables are considered, not words with multiple syllables. This
 could be added, and might be soon, but will only work if syllables of the same
 word are separated by non-breaking tsheg (U0F0C) instead of tsheg (U0F0B), which
 is something I have never seen anyone use.
+
+If you find a bug, please file a bugreport at 
+https://github.com/eroux/tibetan-spellchecker/issues
 
 
 Responsible Persons
@@ -54,10 +57,8 @@ Using
 
  - for Firefox, go in the firefox/ directory and run make, this will
      build a .xpi extension that you can add to you firefox
- - for LibreOffice (should work for OpenOffice too), go in the oo directory
+ - for LibreOffice (should work for OpenOffice too), go in the lo directory
      and run make, it will build a .oxt extension you can install
-     Warning: this might not work well before 4.1 version, containing this patch:
-     http://cgit.freedesktop.org/libreoffice/core/commit/?id=878b09a1a936c2d5bf4461e0123fafd377d948e2
  - for Adobe Indesign, see the instructions exposed at
      http://blog.napsys.com/2012/11/adding-hyphenation-and-spelling.html
 
@@ -70,11 +71,13 @@ versions.
 
 Firefox has been tested only with version 21.
 
+LibreOffice has been tested only with version 4.0.3.
+
 
 License
 -------------------------------------------------------------------------------
 
-The file firefox/icon.png has been generated from 
+The files firefox/icon.png and lo/icon.png have been generated from 
 https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Tibet.svg
 and is thus in the Public Domain (as stated on 
 https://en.wikipedia.org/wiki/File:Flag_of_Tibet.svg)
