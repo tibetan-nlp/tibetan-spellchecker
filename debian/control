@@ -12,7 +12,7 @@ Package: hunspell-bo
 Architecture: all
 Depends: dictionaries-common (>= 1.10.5), ${misc:Depends}
 Provides: hunspell-dictionary, hunspell-dictionary-bo
-Suggests: iceape-browser | iceweasel | icedove, openoffice.org (>= 1.0.3-3)
+Suggests: iceape-browser | iceweasel | icedove, libreoffice
 Conflicts: openoffice.org (<= 1.0.3-2)
 Description: Tibetan dictionary for hunspell
  This dictionary contains Tibetan wordlist for the hunspell
