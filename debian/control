@@ -16,7 +16,7 @@ Suggests: iceape-browser | iceweasel | icedove, openoffice.org (>= 1.0.3-3)
 Conflicts: openoffice.org (<= 1.0.3-2)
 Description: Tibetan dictionary for hunspell
  This dictionary contains Tibetan wordlist for the hunspell
- spellchecker (currently supported by Mozilla and OpenOffice).
+ spellchecker (currently supported by Mozilla and LibreOffice).
  It works at syllable level (not composed words), the valid 
  syllables being extracted from the Bod rgya tshik mdzod chen mo
  dictionary, removing sanskrit.
