@@ -1,0 +1,22 @@
+Source: hunspell-bo
+Section: text
+Priority: optional
+Maintainer: Elie Roux <elie.roux@telecom-bretagne.eu>
+Build-Depends: dpkg-dev (>= 1.16.2), debhelper (>= 9), dictionaries-common-dev (>= 1.0.0)
+Standards-Version: 3.9.4.0
+Homepage: https://github.com/eroux/tibetan-spellchecker
+Vcs-Git: https://github.com/eroux/tibetan-spellchecker.git
+Vcs-Browser: https://github.com/eroux/tibetan-spellchecker
+
+Package: hunspell-bo
+Architecture: all
+Depends: dictionaries-common (>= 1.10.5), ${misc:Depends}
+Provides: hunspell-dictionary, hunspell-dictionary-bo
+Suggests: iceape-browser | iceweasel | icedove, openoffice.org (>= 1.0.3-3)
+Conflicts: openoffice.org (<= 1.0.3-2)
+Description: Tibetan dictionary for hunspell
+ This dictionary contains Tibetan wordlist for the hunspell
+ spellchecker (currently supported by Mozilla and OpenOffice).
+ It works at syllable level (not composed words), the valid 
+ syllables being extracted from the Bod rgya tshik mdzod chen mo
+ dictionary, removing sanskrit.

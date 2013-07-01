@@ -7,4 +7,6 @@ oxt: $(FILES) ../README ../bo.dic ../bo.aff META-INF/manifest.xml
 	@mkdir -p dictionaries && cp ../bo.dic ../bo.aff dictionaries
 	@cp ../README .
 	@zip -rq tibetan-spellchecker.oxt dictionaries $(FILES) META-INF README
-	@rm -rf dictionaries README
+
+clean:
+	@rm -rf dictionaries README tibetan-spellchecker.oxt
