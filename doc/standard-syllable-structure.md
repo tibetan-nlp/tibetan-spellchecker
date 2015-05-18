@@ -38,7 +38,7 @@ Subscript letters are (combination with main letter ཀ in parenthesis)
 
 #### main letter
 
-The main letter can be any of the standard tibetan vowels (ཀ, ཁ, ག, ང, ཅ, ཆ, ཇ, ཉ, ཏ, ཐ, ད, ན, པ, ཕ, བ, མ, ཙ, ཚ, ཛ, ཝ, ཞ, ཟ, འ, ཡ, ར, ལ, ཤ, ས, ཧ, ཨ).
+The main letter can be any of the standard tibetan consonants (ཀ, ཁ, ག, ང, ཅ, ཆ, ཇ, ཉ, ཏ, ཐ, ད, ན, པ, ཕ, བ, མ, ཙ, ཚ, ཛ, ཝ, ཞ, ཟ, འ, ཡ, ར, ལ, ཤ, ས, ཧ, ཨ).
 
 ### subscript letter
 
@@ -55,7 +55,7 @@ The second subscript letter appears under the first subscript, it cannot appear 
 
 ### Explicit vowels
 
-Explicit vowels appear on top or bottom of the main stack. A most one explicit vowel appears per syllable. Vowels can be (combined with ཀ):
+Explicit vowels appear on top or bottom of the main stack. At most one explicit vowel appears per syllable. Explicit vowels are (combined with ཀ):
 
 - ཀི
 - ཀོ
@@ -95,7 +95,7 @@ The following grammatical suffixes can appear if the syllable have no suffix or 
 - འང
 - འམ
 
-When a syllable has suffix འ and no second suffix, it can take the following grammatical suffixes (the following descriptions include suffix འ):
+When a syllable has suffix འ and no second suffix, it can take the following grammatical suffixes (here including suffix འ):
 
 - འི
 - འིའོ
@@ -111,7 +111,7 @@ For a Tibetan syllable to be valid, it must respect a few constraints:
 
 The only valid combinations of superscript + main + subscript + second subscript letters are:
 
-- the main letters without subscript nor subscript nor second subscript letters
+- the main letters without superscript nor subscript nor second subscript letters
 - the [following stacks](http://www.thlib.org/reference/transliteration/tibstacks.php):
   - རྐ རྒ རྔ རྗ རྙ རྟ རྡ རྣ རྦ རྨ རྩ རྫ
   - ལྐ ལྒ ལྔ ལྕ ལྗ ལྟ ལྡ ལྤ ལྦ ལྷ
