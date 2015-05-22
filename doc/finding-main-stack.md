@@ -17,7 +17,7 @@ Finding the main syllable in standard Tibetan is essential and contains a few am
 - when the syllable contains one consonnant, this consonnant is the main stack
 - when the syllable contains two consonnants, the first is the main stack
 - when the syllable contains three consonnants and the final consonnant is not ས, the main stack is the second consonnant
-- when the syllable contains three consonnants and the final consonnant is ས, and the first consonnant cannot be a prefix, the main stack is the first consonnant
+- when the syllable contains three consonnants and the final consonnant is ས, and the first consonnant cannot be a prefix (only ག, ད, བ, མ, འ can be prefix) the main stack is the first consonnant
 - when the syllable contains three consonnants and the final consonnant is ས, and the first consonnant can be a prefix, and the second consonnant is not ག, ང, བ nor མ, the main stack is the first consonnant
 - when the syllable contains four consonnants, the main stack is the second consonnant
 
