@@ -74,7 +74,6 @@ A suffix can appear after the main stack, it can be:
 - མ
 - འ
 - འུ
-- འེ
 - ར
 - ལ
 - ས
@@ -112,50 +111,55 @@ For a Tibetan syllable to be valid, it must respect a few constraints:
 The only valid combinations of superscript + main + subscript + second subscript letters are:
 
 - the main letters without superscript nor subscript nor second subscript letters
-- the [following stacks](http://www.thlib.org/reference/transliteration/tibstacks.php):
+- the following stacks:
   - རྐ རྒ རྔ རྗ རྙ རྟ རྡ རྣ རྦ རྨ རྩ རྫ
   - ལྐ ལྒ ལྔ ལྕ ལྗ ལྟ ལྡ ལྤ ལྦ ལྷ
   - སྐ སྒ སྔ སྙ སྟ སྡ སྣ སྤ སྦ སྨ སྩ
   - ཀྭ ཁྭ གྭ ཅྭ ཉྭ ཏྭ དྭ ཙྭ ཚྭ ཞྭ ཟྭ རྭ ཤྭ སྭ ཧྭ
   - ཀྱ ཁྱ གྱ པྱ ཕྱ བྱ མྱ
-  - ཀྲ ཁྲ གྲ ཏྲ ཐྲ དྲ པྲ ཕྲ བྲ མྲ ཤྲ སྲ ཧྲ
+  - ཀྲ ཁྲ གྲ ཏྲ ཐྲ དྲ པྲ ཕྲ བྲ མྲ སྲ ཧྲ
   - ཀླ གླ བླ ཟླ རླ སླ
   - རྐྱ རྒྱ རྨྱ
   - སྐྱ སྒྱ སྤྱ སྦྱ སྨྱ
   - སྐྲ སྒྲ སྣྲ སྤྲ སྦྲ སྨྲ
   - གྲྭ དྲྭ ཕྱྭ རྒྭ རྩྭ
 
+These are the same as [the famous list](http://www.thlib.org/reference/transliteration/tibstacks.php), removing ཤྲ which doesn't seem standard.
+
 ### Constraints on prefix and superscript letter
 
-The only valid combinations of prefix + superscript letter + main letter are:
-- the main letters without prefix nor superscript letter
-- the [following combinations](http://www.tibet.columbia.edu/iats/it/IATS-X_Chilton_slides.pdf#32): 
-  - དཀ བཀ རྐ ལྐ སྐ བརྐ བསྐ
-  - མཁ འཁ
-  - དག བག མག འག རྒ ལྒ སྒ བརྒ བསྒ
-  - དང མང རྔ ལྔ སྔ བརྔ བསྔ
-  - གཅ བཅ ལྕ བལྕ
-  - མཆ འཆ
-  - མཇ འཇ རྗ ལྗ བརྗ
-  - གཉ མཉ རྙ སྙ བརྙ བསྙ
-  - གཏ བཏ རྟ ལྟ སྟ བརྟ བལྟ བསྟ
-  - མཐ འཐ
-  - གད བད མད འད རྡ ལྡ སྡ བརྡ བལྡ བསྡ
-  - གན མན རྣ སྣ བརྣ བསྣ
-  - དཔ ལྤ སྤ
-  - འཕ
-  - དབ འབ རྦ ལྦ སྦ
-  - དམ རྨ སྨ
-  - གཙ བཙ རྩ སྩ བརྩ བསྩ
-  - མཚ འཚ
-  - མཛ འཛ རྫ བརྫ
-  - གཞ བཞ
-  - གཟ བཟ
+The only valid combinations of prefix + superscript letter + main letter + subscript + second subscript are (in alphabetical order): 
+
+  - ཀ ཀྭ ཀྱ ཀྲ ཀླ དཀ དཀྭ དཀྱ དཀྲ དཀླ བཀ བཀྭ བཀྱ བཀྲ བཀླ རྐ རྐྱ ལྐ སྐ སྐྱ སྐྲ བརྐ བརྐྱ བསྐ བསྐྱ བསྐྲ
+  - ཁ ཁྭ ཁྱ ཁྲ མཁ མཁྭ མཁྱ མཁྲ འཁ འཁྭ འཁྱ འཁྲ
+  - ག གྭ གྱ གྲ གྲྭ གླ དག དགྭ དགྱ དགྲ དགྲྭ བག བགྭ བགྱ བགྲ བགྲྭ བགླ མག མགྭ མགྱ མགྲ མགྲྭ འག འགྭ འགྱ འགྲ འགྲྭ རྒ ལྒ སྒ རྒྱ སྒྱ སྒྲ བརྒ བསྒ བརྒྱ བསྒྱ བསྒྲ
+  - ང དང མང རྔ ལྔ སྔ བརྔ བསྔ
+  - ཅ ཅྭ གཅ གཅྭ བཅ བཅྭ
+  - ཆ མཆ འཆ
+  - ཇ མཇ འཇ རྗ ལྗ བརྗ
+  - ཉ ཉྭ གཉ གཉྭ མཉ མཉྭ རྙ སྙ བརྙ བསྙ
+  - ཏ ཏྭ ཏྲ གཏ གཏྭ གཏྲ བཏ བཏྭ བཏྲ རྟ ལྟ སྟ བརྟ བལྟ བསྟ
+  - ཐ ཐྲ མཐ འཐ
+  - ད དྭ དྲ དྲྭ གད གདྭ བད བདྭ མད མདྭ འད འདྭ འདྲ འདྲྭ རྡ ལྡ སྡ བརྡ བལྡ བསྡ
+  - ན གན མན རྣ སྣ སྣྲ བརྣ བསྣ
+  - པ པྱ པྲ དཔ དཔྱ དཔྲ ལྤ སྤ སྤྱ སྤྲ
+  - ཕ ཕྱ ཕྱྭ ཕྲ འཕ འཕྱ འཕྱྭ འཕྲ
+  - བ བྱ བྲ བླ དབ དབྱ དབྲ འབ འབྱ འབྲ རྦ ལྦ སྦ སྦྱ སྦྲ
+  - མ མྱ མྲ དམ དམྱ དམྲ རྨ སྨ རྨྱ སྨྱ སྨྲ
+  - ཙ ཙྭ གཙ གཙྭ བཙ བཙྭ རྩ རྩྭ སྩ བརྩ བརྩྭ བསྩ
+  - ཚ ཚྭ མཚ མཚྭ འཚ འཚྭ
+  - ཛ མཛ འཛ རྫ བརྫ
+  - ཝ
+  - ཞ ཞྭ གཞ གཞྭ བཞ བཞྭ
+  - ཟ ཟྭ ཟླ གཟ བཟ བཟྭ བཟླ
+  - འ
   - གཡ
-  - བར
-  - གཤ བཤ
-  - གས བས
-  - ལྷ
+  - ར རྭ རླ བརླ
+  - ལ
+  - ཤ ཤྭ གཤ གཤྭ བཤ བཤྭ
+  - ས སྭ སྲ སླ གས གསྭ བས བསྭ བསྲ བསླ
+  - ཧ ཧྭ ཧྲ ལྷ
+  - ཨ
 
 ### Constraints on suffix and second suffix
 
