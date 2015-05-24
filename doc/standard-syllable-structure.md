@@ -115,16 +115,16 @@ The only valid combinations of superscript + main + subscript + second subscript
   - རྐ རྒ རྔ རྗ རྙ རྟ རྡ རྣ རྦ རྨ རྩ རྫ
   - ལྐ ལྒ ལྔ ལྕ ལྗ ལྟ ལྡ ལྤ ལྦ ལྷ
   - སྐ སྒ སྔ སྙ སྟ སྡ སྣ སྤ སྦ སྨ སྩ
-  - ཀྭ ཁྭ གྭ ཅྭ ཉྭ ཏྭ དྭ ཙྭ ཚྭ ཞྭ ཟྭ རྭ ཤྭ སྭ ཧྭ
+  - ཀྭ ཁྭ གྭ ཅྭ ཉྭ ཏྭ དྭ ཙྭ ཚྭ ཞྭ ཟྭ རྭ ལྭ ཤྭ སྭ ཧྭ
   - ཀྱ ཁྱ གྱ པྱ ཕྱ བྱ མྱ
-  - ཀྲ ཁྲ གྲ ཏྲ ཐྲ དྲ པྲ ཕྲ བྲ མྲ སྲ ཧྲ
+  - ཀྲ ཁྲ གྲ ཏྲ ཐྲ དྲ པྲ ཕྲ བྲ མྲ ཤྲ སྲ ཧྲ
   - ཀླ གླ བླ ཟླ རླ སླ
   - རྐྱ རྒྱ རྨྱ
   - སྐྱ སྒྱ སྤྱ སྦྱ སྨྱ
   - སྐྲ སྒྲ སྣྲ སྤྲ སྦྲ སྨྲ
   - གྲྭ དྲྭ ཕྱྭ རྒྭ རྩྭ
 
-These are the same as [the famous list](http://www.thlib.org/reference/transliteration/tibstacks.php), removing ཤྲ which doesn't seem standard.
+These are the same as [the famous list](http://www.thlib.org/reference/transliteration/tibstacks.php), adding ལྭ (from Nicolas Tournadre, Manuel de Tibétain Standard).
 
 ### Constraints on prefix and superscript letter
 
