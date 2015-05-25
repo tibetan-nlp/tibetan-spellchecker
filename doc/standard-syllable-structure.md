@@ -155,7 +155,7 @@ The only valid combinations of prefix + superscript letter + main letter + subsc
   - འ
   - གཡ
   - ར རྭ རླ བརླ
-  - ལ
+  - ལ ལྭ
   - ཤ ཤྭ གཤ གཤྭ བཤ བཤྭ
   - ས སྭ སྲ སླ གས གསྭ བས བསྭ བསྲ བསླ
   - ཧ ཧྭ ཧྲ ལྷ
@@ -182,7 +182,6 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - མ
 - འ
 - འུ
-- འེ
 - ར
 - ལ
 - ས
@@ -200,3 +199,5 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - འུའོ
 - འུའང
 - འུའམ
+- འུར
+- འུས
