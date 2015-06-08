@@ -23,7 +23,7 @@ Finding the main syllable in standard Tibetan is essential and contains a few am
 
 ### ambiguous cases
 
-When the syllable no explicit vowel, no superscript, no subscript, has three consonnants with a final ས, the first consonnant can be a prefix and the second consonnant is ག, ང, བ or མ, the case is ambiguous. There are 12 such cases in standard Tibetan:
+When the syllable no explicit vowel, no superscript, no subscript, has three consonnants with a final ས, the first consonnant can be a prefix and the second consonnant is ག, ང, བ or མ, the case is ambiguous. There are 9 such cases in standard Tibetan:
 
 - མངས་
 - མགས་
@@ -32,13 +32,10 @@ When the syllable no explicit vowel, no superscript, no subscript, has three con
 - དགས་
 - དམས་
 - བགས་
-- བདས་
-- འགས་
 - འདས་
 - འབས་
-- གདས་
 
 To the author's knowledge (with thanks to Åke Persson), when these syllables appear as standalone words, they can be disambiguated as follows:
 
 - in དངས་, བགས་, མགས་ and མངས་, the first consonnant is the main stack
-- in དགས་, འགས་, གདས་, བདས་, འདས་, དབས་, འབས་ and དམས་, the second consonnant is the main stack
+- in དགས་, འགས་, དབས་, འབས་ and དམས་, the second consonnant is the main stack
