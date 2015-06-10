@@ -84,23 +84,35 @@ The second suffix ས can appear only after a suffix.
 
 ## Grammatical suffixes
 
-The following grammatical suffixes can appear if the syllable have no suffix or suffix འུ :
+The following grammatical suffixes can appear if the syllable have no suffix :
 
 - འི
-- འོ
-- འིའོ
+- འིས
 - ར
 - ས
 - འང
-- འམ
 
 When a syllable has suffix འ and no second suffix, it can take the following grammatical suffixes (here including suffix འ):
 
 - འི
-- འིའོ
+- འིས
+- འིའོ (?)
 - འོ
 - འང
 - འམ
+- འར
+- འས
+
+When a syllable has suffix འུ, it can take the following grammatical suffixes (here including suffix འུ):
+
+- འུའི
+- འུའིས
+- འུའིའོ (?)
+- འུའོ (?)
+- འུའང
+- འུའམ
+- འུར
+- འུས
 
 ## Constraints
 
@@ -190,11 +202,13 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - བས
 - མས
 - འི
+- འིས
 - འིའོ
 - འོ
 - འང
 - འམ
 - འུའི
+- འུའིས
 - འུའིའོ
 - འུའོ
 - འུའང
