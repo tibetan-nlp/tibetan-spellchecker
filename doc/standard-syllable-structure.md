@@ -199,7 +199,6 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - འུས
 - འིའི  (extremely rare)
 - འིའིས  (extremely rare)
-- འིའིའོ  (extremely rare)
 - འིའོ  (extremely rare)
 - འིའང  (extremely rare)
 - འིའམ  (extremely rare)
@@ -207,7 +206,6 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - འིས  (extremely rare)
 - འོའི  (extremely rare)
 - འོའིས  (extremely rare)
-- འོའིའོ  (extremely rare)
 - འོའོ  (extremely rare)
 - འོའང  (extremely rare)
 - འོའམ  (extremely rare)
