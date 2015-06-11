@@ -74,6 +74,7 @@ A suffix can appear after the main stack, it can be:
 - མ
 - འ
 - འུ
+- འི (extremely rare, waiting for confirmation)
 - ར
 - ལ
 - ས
@@ -84,15 +85,7 @@ The second suffix ས can appear only after a suffix.
 
 ## Grammatical suffixes
 
-The following grammatical suffixes can appear if the syllable have no suffix :
-
-- འི
-- འིས
-- ར
-- ས
-- འང
-
-When a syllable has suffix འ and no second suffix, it can take the following grammatical suffixes (here including suffix འ):
+The following grammatical suffixes can appear if the syllable have no suffix, suffix འུ, suffix འི or suffix འ (in which case it disappears) :
 
 - འི
 - འིས
@@ -100,19 +93,8 @@ When a syllable has suffix འ and no second suffix, it can take the following g
 - འོ
 - འང
 - འམ
-- འར
-- འས
-
-When a syllable has suffix འུ, it can take the following grammatical suffixes (here including suffix འུ):
-
-- འུའི
-- འུའིས
-- འུའིའོ (?)
-- འུའོ (?)
-- འུའང
-- འུའམ
-- འུར
-- འུས
+- ར
+- ས
 
 ## Constraints
 
@@ -215,3 +197,11 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - འུའམ
 - འུར
 - འུས
+- འིའི  (extremely rare, waiting for confirmation)
+- འིའིས  (extremely rare, waiting for confirmation)
+- འིའིའོ  (extremely rare, waiting for confirmation)
+- འིའོ  (extremely rare, waiting for confirmation)
+- འིའང  (extremely rare, waiting for confirmation)
+- འིའམ  (extremely rare, waiting for confirmation)
+- འིར  (extremely rare, waiting for confirmation)
+- འིས  (extremely rare, waiting for confirmation)
