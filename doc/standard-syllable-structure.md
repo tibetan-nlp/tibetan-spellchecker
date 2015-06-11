@@ -74,7 +74,8 @@ A suffix can appear after the main stack, it can be:
 - མ
 - འ
 - འུ
-- འི (extremely rare, waiting for confirmation)
+- འི (extremely rare, as in ཀྭའི་)
+- འོ (extremely rare, as in བྲའོ་ or སླེའོ་)
 - ར
 - ལ
 - ས
@@ -85,11 +86,10 @@ The second suffix ས can appear only after a suffix.
 
 ## Grammatical suffixes
 
-The following grammatical suffixes can appear if the syllable have no suffix, suffix འུ, suffix འི or suffix འ (in which case it disappears) :
+The following grammatical suffixes can appear if the syllable have no suffix, suffix འུ, འོ, འི or འ (suffix འ disappears, others not) :
 
 - འི
 - འིས
-- འིའོ (?)
 - འོ
 - འང
 - འམ
@@ -197,11 +197,19 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - འུའམ
 - འུར
 - འུས
-- འིའི  (extremely rare, waiting for confirmation)
-- འིའིས  (extremely rare, waiting for confirmation)
-- འིའིའོ  (extremely rare, waiting for confirmation)
-- འིའོ  (extremely rare, waiting for confirmation)
-- འིའང  (extremely rare, waiting for confirmation)
-- འིའམ  (extremely rare, waiting for confirmation)
-- འིར  (extremely rare, waiting for confirmation)
-- འིས  (extremely rare, waiting for confirmation)
+- འིའི  (extremely rare)
+- འིའིས  (extremely rare)
+- འིའིའོ  (extremely rare)
+- འིའོ  (extremely rare)
+- འིའང  (extremely rare)
+- འིའམ  (extremely rare)
+- འིར  (extremely rare)
+- འིས  (extremely rare)
+- འོའི  (extremely rare)
+- འོའིས  (extremely rare)
+- འོའིའོ  (extremely rare)
+- འོའོ  (extremely rare)
+- འོའང  (extremely rare)
+- འོའམ  (extremely rare)
+- འོར  (extremely rare)
+- འོས  (extremely rare)
