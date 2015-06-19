@@ -4,7 +4,6 @@ This page lists the syllables having invisible second suffix ད:
 
 ## non-verbs
 
-- ཕྱིན་
 - ཀུན་
 
 ## verbs
@@ -14,3 +13,4 @@ Verbs are more difficult, as in the same verb, a tense may have a second suffix 
 - བསྟན་
 - བསྐོར་
 - གྱུར་
+- ཕྱིན་

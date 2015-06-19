@@ -115,18 +115,18 @@ The only valid combinations of superscript + main + subscript + second subscript
   - རྐ རྒ རྔ རྗ རྙ རྟ རྡ རྣ རྦ རྨ རྩ རྫ
   - ལྐ ལྒ ལྔ ལྕ ལྗ ལྟ ལྡ ལྤ ལྦ ལྷ
   - སྐ སྒ སྔ སྙ སྟ སྡ སྣ སྤ སྦ སྨ སྩ
-  - ཀྭ ཁྭ གྭ ཅྭ ཉྭ ཏྭ དྭ ཙྭ ཚྭ ཞྭ ཟྭ རྭ ལྭ ཤྭ སྭ ཧྭ
+  - ཀྭ ཁྭ གྭ ཉྭ ཏྭ དྭ ཙྭ ཚྭ ཞྭ ཟྭ རྭ ལྭ ཤྭ སྭ ཧྭ
   - ཀྱ ཁྱ གྱ པྱ ཕྱ བྱ མྱ
   - ཀྲ ཁྲ གྲ ཏྲ ཐྲ དྲ པྲ ཕྲ བྲ མྲ ཤྲ སྲ ཧྲ
   - ཀླ གླ བླ ཟླ རླ སླ
   - རྐྱ རྒྱ རྨྱ
   - སྐྱ སྒྱ སྤྱ སྦྱ སྨྱ
   - སྐྲ སྒྲ སྣྲ སྤྲ སྦྲ སྨྲ
-  - གྲྭ དྲྭ ཕྱྭ (རྒྭ རྩྭ)
+  - གྲྭ རྩྭ ཕྱྭ
 
-These are the same as [the famous list by Chris Fynn](http://www.thlib.org/reference/transliteration/tibstacks.php), merged with NT and TSH.
+The source is [the list by Chris Fynn](https://sites.google.com/site/chrisfynn2/home/tibetanscriptfonts/thetibetanwritingsystem/tibetanlettercombinations), merged with NT and TSH.
 
-Note that TSH doesn't list དྲྭ, རྒྭ, ཅྭ, ཏྭ, ཙྭ, སྭ, མྲ nor ཤྲ.
+Note that TSH doesn't list ཏྭ, ཙྭ, སྭ, མྲ nor ཤྲ.
 
 ### Constraints on prefix and superscript letter
 
@@ -136,13 +136,13 @@ The only valid combinations of prefix + superscript letter + main letter + subsc
   - ཁ ཁྭ ཁྱ ཁྲ མཁ མཁྭ མཁྱ མཁྲ འཁ འཁྭ འཁྱ འཁྲ
   - ག གྭ གྱ གྲ གྲྭ གླ དག དགྭ དགྱ དགྲ དགྲྭ བག བགྭ བགྱ བགྲ བགྲྭ བགླ མག མགྭ མགྱ མགྲ མགྲྭ འག འགྭ འགྱ འགྲ འགྲྭ རྒ རྒྱ ལྒ སྒ སྒྱ སྒྲ བརྒ བརྒྱ བསྒ བསྒྱ བསྒྲ
   - ང དང མང རྔ ལྔ སྔ བརྔ བསྔ
-  - ཅ ཅྭ གཅ གཅྭ བཅ བཅྭ
+  - ཅ གཅ བཅ
   - ཆ མཆ འཆ
   - ཇ མཇ འཇ རྗ ལྗ བརྗ
   - ཉ ཉྭ གཉ གཉྭ མཉ མཉྭ རྙ སྙ བརྙ བསྙ
   - ཏ ཏྭ ཏྲ གཏ གཏྭ གཏྲ བཏ བཏྭ བཏྲ རྟ ལྟ སྟ བརྟ བལྟ བསྟ
   - ཐ ཐྲ མཐ འཐ
-  - ད དྭ དྲ དྲྭ གད གདྭ བད བདྭ མད མདྭ མདྲ འད འདྭ འདྲ འདྲྭ རྡ ལྡ སྡ བརྡ བལྡ བསྡ
+  - ད དྭ དྲ གད གདྭ བད བདྭ མད མདྭ མདྲ འད འདྭ འདྲ རྡ ལྡ སྡ བརྡ བལྡ བསྡ
   - ན གན མན རྣ སྣ སྣྲ བརྣ བསྣ
   - པ པྱ པྲ དཔ དཔྱ དཔྲ ལྤ སྤ སྤྱ སྤྲ
   - ཕ ཕྱ ཕྱྭ ཕྲ འཕ འཕྱ འཕྱྭ འཕྲ
