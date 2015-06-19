@@ -92,7 +92,7 @@ The second suffix ས can appear only after a suffix.
 
 ## Grammatical suffixes
 
-The following grammatical suffixes can appear if the syllable have no suffix, suffix འུ, འོ, འི or འ (suffix འ disappears, others not) :
+The following grammatical suffixes can appear if the syllable have no suffix, suffix འུ, འོ, འི or འ (first suffix འ disappears if first symbol of grammatical suffix is also འ) :
 
 - འི
 - འིས
