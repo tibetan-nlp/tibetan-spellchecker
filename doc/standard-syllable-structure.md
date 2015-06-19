@@ -180,6 +180,17 @@ The second suffix ད (extremely rare) can only appear after the following suffi
 - ར
 - ལ
 
+### Constraints on འ suffix
+
+The འ suffix only appears in syllables with:
+
+- one prefix
+- zero or one superscript
+- no subscript
+- no vowel
+
+There seems to be only one case (བརྡའ་) where འ is suffix in a syllable with a superscript letter, so the rule might be "with no superscript", with only this exception. This rule is not documented in grammar books and can be challenged. These rules do not apply to འི, འུ or འོ suffixes.
+
 ### Simplification of contraints on suffixes
 
 Mixing suffix, second suffix and grammatical suffix, the following can appear after the main stack:
