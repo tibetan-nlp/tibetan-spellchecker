@@ -14,6 +14,12 @@ The syllable is composed of (in this order):
 - zero or one second suffix
 - zero or one grammatical suffixes
 
+### Reference
+
+The reference book on this is བོད་གངས་ཅན་གྱི་སྒྲ་རིག་པའི་བསྟན་བཅོས་ལེ་ཚན་འགའ་ཕྱོགས་བསྡུས་བཞུགས་སོ། (ISBN 7-5420-1026-3) by ཚེ་ཏན་ཞབས་དྲུང་. The author of this page doesn't have a direct access to this book. It is hereafter referenced to as TSH.
+
+We also used Manuel de Tibétain Standard by Nicolas Tournadre, hereafter referenced to as NT.
+
 ### Prefixes
 
 A prefix can be:
@@ -118,7 +124,9 @@ The only valid combinations of superscript + main + subscript + second subscript
   - སྐྲ སྒྲ སྣྲ སྤྲ སྦྲ སྨྲ
   - གྲྭ དྲྭ ཕྱྭ རྒྭ རྩྭ
 
-These are the same as [the famous list](http://www.thlib.org/reference/transliteration/tibstacks.php), adding ལྭ (from Nicolas Tournadre, Manuel de Tibétain Standard).
+These are the same as [the famous list by Chris Fynn](http://www.thlib.org/reference/transliteration/tibstacks.php), adding ལྭ (from NT and TSH).
+
+Note that TSH doesn't list དྲྭ, རྒྭ, ཅྭ, ཏྭ, ཙྭ, སྭ, མྲ nor ཤྲ.
 
 ### Constraints on prefix and superscript letter
 
@@ -154,6 +162,8 @@ The only valid combinations of prefix + superscript letter + main letter + subsc
   - ས སྭ སྲ སླ གས གསྭ བས བསྭ བསྲ བསླ
   - ཧ ཧྭ ཧྲ ལྷ
   - ཨ
+
+TSH does not include བགླ nor མདྲ in his list, but lists them as exceptions for བགླ་ and མདྲོན་. The wasurs were also added by the author of this document, not all possibilities might be possible.
 
 ### Constraints on suffix and second suffix
 

@@ -32,8 +32,8 @@ When the syllable no explicit vowel, no superscript, no subscript, has three con
 - དགས་
 - དམས་
 - བགས་
-- འདས་
 - འབས་
+- འགས་
 
 To the author's knowledge (with thanks to Åke Persson), when these syllables appear as standalone words, they can be disambiguated as follows:
 
