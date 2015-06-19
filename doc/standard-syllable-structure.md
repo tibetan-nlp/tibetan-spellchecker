@@ -185,11 +185,11 @@ The second suffix ད (extremely rare) can only appear after the following suffi
 The འ suffix only appears in syllables with:
 
 - one prefix
-- zero or one superscript
+- no superscript
 - no subscript
 - no vowel
 
-There seems to be only one case (བརྡའ་) where འ is suffix in a syllable with a superscript letter, so the rule might be "with no superscript", with only this exception. This rule is not documented in grammar books and can be challenged. These rules do not apply to འི, འུ or འོ suffixes.
+Some mispelled words (like བརྡའ་) do not follow this rule, but they are mispelled... This rule is not documented in grammar books, but is yet to be challenged (no counter examples are found in the བོད་རྒྱ་ཚིག་མཛོད་ཆེན་མོ་). This rule does not apply to འི, འུ or འོ suffixes.
 
 ### Simplification of contraints on suffixes
 
