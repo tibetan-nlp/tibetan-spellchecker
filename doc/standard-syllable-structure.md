@@ -147,7 +147,7 @@ The only valid combinations of prefix + superscript letter + main letter + subsc
   - ཞ ཞྭ གཞ གཞྭ བཞ བཞྭ
   - ཟ ཟྭ ཟླ གཟ བཟ བཟྭ བཟླ
   - འ
-  - གཡ
+  - ཡ གཡ
   - ར རྭ རླ བརླ
   - ལ ལྭ
   - ཤ ཤྭ གཤ གཤྭ བཤ བཤྭ
