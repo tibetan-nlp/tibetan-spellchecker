@@ -122,9 +122,9 @@ The only valid combinations of superscript + main + subscript + second subscript
   - རྐྱ རྒྱ རྨྱ
   - སྐྱ སྒྱ སྤྱ སྦྱ སྨྱ
   - སྐྲ སྒྲ སྣྲ སྤྲ སྦྲ སྨྲ
-  - གྲྭ དྲྭ ཕྱྭ རྒྭ རྩྭ
+  - གྲྭ དྲྭ ཕྱྭ (རྒྭ རྩྭ)
 
-These are the same as [the famous list by Chris Fynn](http://www.thlib.org/reference/transliteration/tibstacks.php), adding ལྭ (from NT and TSH).
+These are the same as [the famous list by Chris Fynn](http://www.thlib.org/reference/transliteration/tibstacks.php), merged with NT and TSH.
 
 Note that TSH doesn't list དྲྭ, རྒྭ, ཅྭ, ཏྭ, ཙྭ, སྭ, མྲ nor ཤྲ.
 
@@ -174,6 +174,12 @@ The second suffix ས can only appear after the following suffixes:
 - བ
 - མ
 
+The second suffix ད (extremely rare) can only appear after the following suffixes:
+
+- ན
+- ར
+- ལ
+
 ### Simplification of contraints on suffixes
 
 Mixing suffix, second suffix and grammatical suffix, the following can appear after the main stack:
@@ -193,6 +199,9 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - ངས
 - བས
 - མས
+- ནད (extremely rare)
+- རད (extremely rare)
+- ལད (extremely rare)
 - འི
 - འིས
 - འོ
