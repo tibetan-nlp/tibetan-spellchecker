@@ -38,8 +38,8 @@ When the syllable no explicit vowel, no superscript, no subscript, has three con
 Disambiguating is difficult because ས can be suffix, second suffix or grammatical suffix. Here are some clues (the main stack is noted by appending | to it, grammatical suffix ས is noted "+ས"):
 
 - དབ|ས is archaic, but ད|བ+ས is common, so ད|བ+ས can be considered highly probable
-- མང|ས doesn't exist nor མ|ངས but མང is common, so མ|ང+ས can be considered definitive
-- མག|ས doesn't exist nor མ|གས but མག is common, so མ|ག+ས can be considered definitive
+- མང|ས doesn't exist, nor མ|ངས, but མང+ས is common and can be considered definitive
+- མག|ས doesn't exist, nor མ|གས, but མག+ས is common and can be considered definitive
 - བག|ས doesn't exist but བ|གས does, so བ|ག+ས or བ|གས can be considered definitive
 - ད|གས is usually written དྭགས, and དག|ས exists so it can be considered highly probable
 - neither ད|ངས nor དང|ས exist, but དང does, so ད|ང+ས can be considered definitive
