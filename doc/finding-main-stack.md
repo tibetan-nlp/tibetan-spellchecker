@@ -45,7 +45,7 @@ Here are the different forms:
 
 - *ད|བས, *དྭབས, དབ|ས (archaic), དབའ+ས -> དབ|ས can be considered definitive
 - *མང|ས, མ|ངས, མངའ+ས -> མ|ངས can be considered reasonably probable
-- *མག|ས, *མ|གས, *མགའ+ས -> impossible to determine
+- *མག|ས, *མ|གས, *མགའ+ས -> impossible to determine, but མ|གས is more intuitive
 - *བག|ས, *བགའ+ས, བ|གས -> བ|གས can be considered definitive
 - *ད|གས, དྭགས, དག|ས, དགའ+ས -> དག|ས can be considered definitive
 - *ད|ངས, *དང|ས, དྭངས, *དངའ+ས -> དང|ས reasonable due to existence of དྭངས
