@@ -51,4 +51,4 @@ Here are the different forms:
 - *ད|ངས, *དང|ས, དྭངས, *དངའ+ས -> དང|ས due to the possibility of དྭངས
 - *དྭངས, *ད|མས, དམ|ས, དམའ+ས -> དམ|ས can be considered definitive
 - *འབ|ས, *འ|བས, འབ|འ+ས -> འབ|ས can be considered definitive
-- *འ|གས, འག|ས, འག|འ+ས ->འག|ས can be considered definitive
+- *འ|གས, འག|ས, འག|འ+ས -> འག|ས can be considered definitive
