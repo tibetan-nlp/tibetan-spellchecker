@@ -81,7 +81,7 @@ A suffix can appear after the main stack, it can be:
 - འ
 - འུ
 - འི (extremely rare, as in ཀྭའི་)
-- འོ (extremely rare, as in བྲའོ་ or སླེའོ་)
+- འོ (extremely rare, as in ཨའོ་མ་, བྲའོ་ or སླེའོ་)
 - ར
 - ལ
 - ས

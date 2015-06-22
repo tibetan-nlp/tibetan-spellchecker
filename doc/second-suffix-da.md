@@ -6,6 +6,8 @@ This page lists the syllables having invisible second suffix ད:
 
 - ཀུན་
 - དཀོན་
+- ཤིན་
+- འོན་
 
 ## verbs
 
