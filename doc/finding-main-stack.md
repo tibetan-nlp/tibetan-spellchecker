@@ -48,7 +48,7 @@ Here are the different forms:
 - *མག|ས, *མ|གས, *མགའ+ས -> impossible to determine, but མ|གས is more intuitive
 - *བག|ས, *བགའ+ས, བ|གས -> བ|གས can be considered definitive
 - *ད|གས, དྭགས, དག|ས, དགའ+ས -> དག|ས can be considered definitive
-- *ད|ངས, *དང|ས, དྭངས, *དངའ+ས -> དང|ས due to the possibility of དྭངས
+- *ད|ངས, *དང|ས, དྭངས, *དངའ+ས -> དང|ས would be the correct way due to the possibility of དྭངས (according to བློ་གསལ་དགའ་སྟོན་ by མུ་གེ་བསམ་གཏན་) but is never attested; ད|ངས is an attested mispelling of དྭངས so it can be considered definitive
 - *དྭངས, *ད|མས, དམ|ས, དམའ+ས -> དམ|ས can be considered definitive
 - *འབ|ས, *འ|བས, འབ|འ+ས -> འབ|ས can be considered definitive
 - *འ|གས, འག|ས, འག|འ+ས -> འག|ས can be considered definitive
