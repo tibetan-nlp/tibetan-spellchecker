@@ -1,6 +1,6 @@
 # Syllables with second suffix ད
 
-This page lists the syllables having invisible second suffix ད:
+This page is an attempt to list the syllables having invisible second suffix ད, for spell-checking purpose.
 
 ## non-verbs
 
@@ -13,26 +13,24 @@ The following seem to consensually have a second suffix ད:
 
 ## verbs
 
-Verbs are more difficult because:
+Verbs are more difficult due to:
 
-- like everything about verbs, there is no consensus (for instance for འགྱུར, NT gives a second suffix ད on the past, གྱུརད, whereas GT gives second suffix ད on the present, འགྱུརད, not on the past)
-- the same syllable almost always can have a second suffix ད or not, which make things difficult for a spellchecker
-- even when a second suffix ད is relatively consensual (like on བསྟན), due to the above difficulties, the second suffix ད is almost never taken into account
+- lack of consensus, like everything about verbs; for instance for འགྱུར:
+  - NT gives a second suffix ད on the past: གྱུརད
+  - GT gives second suffix ད on the present, འགྱུརད, not on the past
+- the same syllable almost always may or may not have a second suffix ད, which make things difficult for a spellchecker
+- even when a second suffix ད is relatively consensual (like on བསྟན), due to the above difficulties, the second suffix ད is almost never taken into account for verbs, so it can be considered more or less optional
 
 Hereafter are a few lists of second suffix ད from various sources (see [bibliography](https://github.com/eroux/tibetan-spellchecker/blob/master/doc/bibliography.md) for references).
 
-### JB
-
-JB gives the following:
+#### JB
 
 - བསྒྱུར
 - བསྟན
 - གསོལ
 - བསྟེར
 
-### Clair Mirroir
-
-CM gives the following:
+#### CM
 
 - བཙལ
 - བསྡུར
@@ -41,9 +39,7 @@ CM gives the following:
 - ནོན
 - མནོན 
 
-### NT
-
-NT gives the following:
+#### NT
 
 - བསྟན
 - བསྐོར
@@ -51,9 +47,7 @@ NT gives the following:
 - ཕྱིན
 
 
-### KN
-
-A few are present in KN:
+#### KN
 
 - བསྙལ
 - བསྙུན
@@ -62,7 +56,7 @@ A few are present in KN:
 - བསྙེན
 - བསྙོན
 
-### GT
+#### GT
 
 The biggest source is GT, according to it, the following 17 syllables always have a second suffix ད:
 
