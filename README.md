@@ -31,9 +31,9 @@ If you find a bug, please file a bugreport on [github](https://github.com/eroux/
 
 This package is developped with the valuable help of:
 
-Hélios Hildt
-Xavier Faure             <suizokukan@orange.fr>
-Elie Roux                <elie.roux@telecom-bretagne.eu>
+- Hélios Hildt
+- Xavier Faure             <suizokukan@orange.fr>
+- Elie Roux                <elie.roux@telecom-bretagne.eu>
 
 ## Using
 
@@ -76,7 +76,4 @@ Elie Roux                <elie.roux@telecom-bretagne.eu>
 
 This work and the derived files are under the Creative Commons CC0 license,
 which is as close to public domain as possible in the country of the authors.
-See the full text [1] or the FAQ [2].
-
-[1]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
-[2]: http://wiki.creativecommons.org/CC0
+See the [full text](http://creativecommons.org/publicdomain/zero/1.0/legalcode) or the [FAQ](http://wiki.creativecommons.org/CC0).
