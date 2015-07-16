@@ -16,9 +16,7 @@ The syllable is composed of (in this order):
 
 ### Reference
 
-The reference book on this is བོད་གངས་ཅན་གྱི་སྒྲ་རིག་པའི་བསྟན་བཅོས་ལེ་ཚན་འགའ་ཕྱོགས་བསྡུས་བཞུགས་སོ། (ISBN 7-5420-1026-3) by ཚེ་ཏན་ཞབས་དྲུང་. The author of this page doesn't have a direct access to this book. It is hereafter referenced to as TSH.
-
-We also used Manuel de Tibétain Standard by Nicolas Tournadre, hereafter referenced to as NT.
+The reference book on this is TSH, see [bibliography](https://github.com/eroux/tibetan-spellchecker/blob/master/doc/bibliography.md) for reference. The author of this page doesn't have a direct access to this book.
 
 ### Prefixes
 
@@ -88,19 +86,25 @@ A suffix can appear after the main stack, it can be:
 
 ## Second suffix
 
-The second suffix ས can appear only after a suffix.
+The second suffixes ས and ད (archaic) can appear only after a suffix.
 
 ## Grammatical suffixes
 
 The following grammatical suffixes can appear if the syllable have no suffix, suffix འུ, འོ, འི or འ (first suffix འ disappears if first symbol of grammatical suffix is also འ) :
 
 - འི
-- འིས
 - འོ
 - འང
 - འམ
 - ར
 - ས
+
+Some archaic forms can also be found:
+
+- འིས
+- འའིས (only when འ is suffix)
+- འར (only when འ is suffix)
+
 
 ## Constraints
 
@@ -122,11 +126,11 @@ The only valid combinations of superscript + main + subscript + second subscript
   - རྐྱ རྒྱ རྨྱ
   - སྐྱ སྒྱ སྤྱ སྦྱ སྨྱ
   - སྐྲ སྒྲ སྣྲ སྤྲ སྦྲ སྨྲ
-  - གྲྭ རྩྭ ཕྱྭ
+  - གྲྭ རྩྭ ཕྱྭ སྟྭ དྲྭ
 
 The source is [the list by Chris Fynn](https://sites.google.com/site/chrisfynn2/home/tibetanscriptfonts/thetibetanwritingsystem/tibetanlettercombinations), merged with NT and TSH.
 
-Note that TSH doesn't list ཏྭ, ཙྭ, སྭ, མྲ nor ཤྲ.
+Note that TSH doesn't list ཏྭ, ཙྭ, སྭ (found in བསྭ་སྒྲ་), མྲ, ཤྲ, སྟྭ (found in སྟྭ་རེ་) nor དྲྭ (contraction of དྲ་བ་).
 
 ### Constraints on prefix and superscript letter
 
@@ -140,9 +144,9 @@ The only valid combinations of prefix + superscript letter + main letter + subsc
   - ཆ མཆ འཆ
   - ཇ མཇ འཇ རྗ ལྗ བརྗ
   - ཉ ཉྭ གཉ གཉྭ མཉ མཉྭ རྙ སྙ བརྙ བསྙ
-  - ཏ ཏྭ ཏྲ གཏ གཏྭ གཏྲ བཏ བཏྭ བཏྲ རྟ ལྟ སྟ བརྟ བལྟ བསྟ
+  - ཏ ཏྭ ཏྲ གཏ གཏྭ གཏྲ བཏ བཏྭ བཏྲ རྟ ལྟ སྟྭ སྟ བརྟ བལྟ བསྟ
   - ཐ ཐྲ མཐ འཐ
-  - ད དྭ དྲ གད གདྭ བད བདྭ མད མདྭ མདྲ འད འདྭ འདྲ རྡ ལྡ སྡ བརྡ བལྡ བསྡ
+  - ད དྭ དྲ དྲྭ གད གདྭ བད བདྭ མད མདྭ མདྲ འད འདྭ འདྲ རྡ ལྡ སྡ བརྡ བལྡ བསྡ
   - ན གན མན རྣ སྣ སྣྲ བརྣ བསྣ
   - པ པྱ པྲ དཔ དཔྱ དཔྲ ལྤ སྤ སྤྱ སྤྲ
   - ཕ ཕྱ ཕྱྭ ཕྲ འཕ འཕྱ འཕྱྭ འཕྲ
@@ -163,7 +167,9 @@ The only valid combinations of prefix + superscript letter + main letter + subsc
   - ཧ ཧྭ ཧྲ ལྷ
   - ཨ
 
-TSH does not include བགླ nor མདྲ in his list, but lists them as exceptions for བགླ་ and མདྲོན་. The wasurs were also added by the author of this document, not all possibilities might be possible.
+TSH does not include བགླ nor མདྲ in his list, but lists them as exceptions for བགླ་ and མདྲོན་.
+
+The wasurs were also added by the author of this document, not all possibilities might be right.
 
 ### Constraints on suffix and second suffix
 
@@ -174,7 +180,7 @@ The second suffix ས can only appear after the following suffixes:
 - བ
 - མ
 
-The second suffix ད (extremely rare) can only appear after the following suffixes:
+The second suffix ད (archaic) can only appear after the following suffixes:
 
 - ན
 - ར
@@ -189,7 +195,9 @@ The འ suffix only appears in syllables with:
 - no subscript
 - no vowel
 
-Some mispelled words (like བརྡའ་) do not follow this rule, but they are mispelled... This rule is not documented in grammar books, but is yet to be challenged (no counter examples are found in the བོད་རྒྱ་ཚིག་མཛོད་ཆེན་མོ་). This rule does not apply to འི, འུ or འོ suffixes.
+This rule is not documented explicitely in grammar books, but is yet to be challenged seriously.
+
+Some mispelled words (like བརྡའ་) do not follow this rule, and the only counter-example found so far is བརྟའ (in GT). This rule does not apply to འི, འུ or འོ suffixes.
 
 ### Simplification of contraints on suffixes
 
@@ -210,11 +218,10 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - ངས
 - བས
 - མས
-- ནད (extremely rare)
-- རད (extremely rare)
-- ལད (extremely rare)
+- ནད (archaic)
+- རད (archaic)
+- ལད (archaic)
 - འི
-- འིས
 - འོ
 - འང
 - འམ
@@ -225,16 +232,19 @@ Mixing suffix, second suffix and grammatical suffix, the following can appear af
 - འུའམ
 - འུར
 - འུས
-- འིའི  (extremely rare)
-- འིའིས  (extremely rare)
-- འིའོ  (extremely rare)
-- འིའང  (extremely rare)
-- འིའམ  (extremely rare)
-- འིར  (extremely rare)
-- འོའི  (extremely rare)
-- འོའིས  (extremely rare)
-- འོའོ  (extremely rare)
-- འོའང  (extremely rare)
-- འོའམ  (extremely rare)
-- འོར  (extremely rare)
-- འོས  (extremely rare)
+- འིས (extremely rare or archaic)
+- འའིས (archaic)
+- འར (archaic)
+- འིའི (extremely rare)
+- འིའིས (extremely rare)
+- འིའོ (extremely rare)
+- འིའང (extremely rare)
+- འིའམ (extremely rare)
+- འིར (extremely rare)
+- འོའི (extremely rare)
+- འོའིས (extremely rare and archaic)
+- འོའོ (extremely rare)
+- འོའང (extremely rare)
+- འོའམ (extremely rare)
+- འོར (extremely rare)
+- འོས (extremely rare)
