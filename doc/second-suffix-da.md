@@ -4,10 +4,12 @@ This page lists the syllables having invisible second suffix ད:
 
 ## non-verbs
 
-- ཀུན་
-- དཀོན་
-- ཤིན་
-- འོན་
+The following seem to consensually have a second suffix ད:
+
+- ཀུན
+- དཀོན (given in JB)
+- ཤིན
+- འོན
 
 ## verbs
 
@@ -17,7 +19,7 @@ Verbs are more difficult because:
 - the same syllable almost always can have a second suffix ད or not, which make things difficult for a spellchecker
 - even when a second suffix ད is relatively consensual (like on བསྟན), due to the above difficulties, the second suffix ད is almost never taken into account
 
-Here are a few lists of second suffix ད from various sources:
+Hereafter are a few lists of second suffix ད from various sources (see [bibliography](https://github.com/eroux/tibetan-spellchecker/blob/master/doc/bibliography.md) for references).
 
 ### JB
 
@@ -30,7 +32,7 @@ JB gives the following:
 
 ### Clair Mirroir
 
-According to CM, the following syllables may or may not have a second suffix ད:
+CM gives the following:
 
 - བཙལ
 - བསྡུར
@@ -41,7 +43,7 @@ According to CM, the following syllables may or may not have a second suffix ད
 
 ### NT
 
-NT gives the following syllables:
+NT gives the following:
 
 - བསྟན
 - བསྐོར
@@ -51,7 +53,7 @@ NT gives the following syllables:
 
 ### KN
 
-A few are present in KN, all may or may not have second suffix ད:
+A few are present in KN:
 
 - བསྙལ
 - བསྙུན
