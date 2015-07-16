@@ -15,9 +15,9 @@ The following seem to consensually have a second suffix ད:
 
 Verbs are more difficult due to:
 
-- lack of consensus, like everything about verbs; for instance for འགྱུར:
+- lack of consensus, like everything about verbs, for instance for འགྱུར:
   - NT gives a second suffix ད on the past: གྱུརད
-  - GT gives second suffix ད on the present, འགྱུརད, not on the past
+  - GT gives second suffix ད on the present: འགྱུརད, but not on the past
 - the same syllable almost always may or may not have a second suffix ད, which make things difficult for a spellchecker
 - even when a second suffix ད is relatively consensual (like on བསྟན), due to the above difficulties, the second suffix ད is almost never taken into account for verbs, so it can be considered more or less optional
 

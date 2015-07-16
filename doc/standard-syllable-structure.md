@@ -30,6 +30,10 @@ A prefix can be:
 
 ### Main stack
 
+#### main letter
+
+The main letter can be any of the standard tibetan consonants (ཀ, ཁ, ག, ང, ཅ, ཆ, ཇ, ཉ, ཏ, ཐ, ད, ན, པ, ཕ, བ, མ, ཙ, ཚ, ཛ, ཝ, ཞ, ཟ, འ, ཡ, ར, ལ, ཤ, ས, ཧ, ཨ).
+
 #### superscript letter
 
 A subscript letter is written above the main letter. For example རྒ decomposes in subscript ར above main letter ག.
@@ -40,11 +44,7 @@ Subscript letters are (combination with main letter ཀ in parenthesis)
 - ལ (ལྐ)
 - ས (སྐ)
 
-#### main letter
-
-The main letter can be any of the standard tibetan consonants (ཀ, ཁ, ག, ང, ཅ, ཆ, ཇ, ཉ, ཏ, ཐ, ད, ན, པ, ཕ, བ, མ, ཙ, ཚ, ཛ, ཝ, ཞ, ཟ, འ, ཡ, ར, ལ, ཤ, ས, ཧ, ཨ).
-
-### subscript letter
+#### subscript letter
 
 Subscript letters are written below the main letter. They are (combination with main letter ཀ in parenthesis):
 
@@ -53,11 +53,11 @@ Subscript letters are written below the main letter. They are (combination with 
 - ལ (ཀླ)
 - ཝ (ཀྭ)
 
-### second subscript letter
+#### second subscript letter
 
 The second subscript letter appears under the first subscript, it cannot appear without a first subscript. It can only be ཝ.
 
-### Explicit vowels
+#### Explicit vowels
 
 Explicit vowels appear on top or bottom of the main stack. At most one explicit vowel appears per syllable. Explicit vowels are (combined with ཀ):
 
@@ -79,7 +79,7 @@ A suffix can appear after the main stack, it can be:
 - འ
 - འུ
 - འི (extremely rare, as in ཀྭའི་)
-- འོ (extremely rare, as in ཨའོ་མ་, བྲའོ་ or སླེའོ་)
+- འོ (extremely rare, as in བྲའོ་ or སླེའོ་)
 - ར
 - ལ
 - ས
@@ -167,7 +167,7 @@ The only valid combinations of prefix + superscript letter + main letter + subsc
   - ཧ ཧྭ ཧྲ ལྷ
   - ཨ
 
-TSH does not include བགླ nor མདྲ in his list, but lists them as exceptions for བགླ་ and མདྲོན་.
+TSH does not include བགླ nor མདྲ in his list, but lists them as exceptions for valid syllables བགླ་ and མདྲོན་.
 
 The wasurs were also added by the author of this document, not all possibilities might be right.
 
