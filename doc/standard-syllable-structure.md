@@ -78,8 +78,8 @@ A suffix can appear after the main stack, it can be:
 - མ
 - འ
 - འུ
-- འི (extremely rare, as in ཀྭའི་)
-- འོ (extremely rare, as in བྲའོ་ or སླེའོ་)
+- འི (extremely rare as a full part of the syllable, example: ཀྭའི་)
+- འོ (extremely rare as a full part of the syllable, example: བྲའོ་ or སླེའོ་)
 - ར
 - ལ
 - ས
@@ -90,7 +90,7 @@ The second suffixes ས and ད (archaic) can appear only after a suffix.
 
 ## Grammatical suffixes
 
-The following grammatical suffixes can appear if the syllable have no suffix, suffix འུ, འོ, འི or འ (first suffix འ disappears if first symbol of grammatical suffix is also འ) :
+The following grammatical suffixes can appear if the syllable have no suffix, or suffix འུ, འོ, འི or འ (first suffix འ disappears if a grammatical suffix is present):
 
 - འི
 - འོ
