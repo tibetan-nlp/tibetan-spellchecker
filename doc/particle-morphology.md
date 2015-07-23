@@ -4,6 +4,8 @@ NS is when there is no suffix, or suffix འུ, འི or འོ.
 
 When ས is second suffix, the relevant column is ས, not the one of the first suffix.
 
+A dash (-) indicates that the particle gets affixed to the previous syllable. In this case, the suffix is འ is removed when present.
+
 case/suffix | ག | ང | ད | ན | བ | མ | འ | ར | ལ | ས | NS | ད་དྲག |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 **ལ་དོན** | ཏུ | དུ | དུ | དུ | ཏུ | དུ | -ར/རུ <sup>1</sup> | དུ | དུ | སུ | -ར/རུ <sup>1</sup> | ཏུ |
