@@ -11,3 +11,4 @@ This file contains a few bibliographic references used in other documents. It sh
 - NT: *Manuel de Tibétain Standard* by Nicolas Tournadre
 - CM: *Le Clair Miroir* by Kesang Gyurme, translated by Nicolas Tournadre
 - JB: *Grammaire du Tibétain littéraire* by Jacques Bacot
+- Miller: *Thon-mi Sambhota and His Grammatical Treatises* by Roy Andrew Miller, available on [jstor](http://www.jstor.org/stable/597167)

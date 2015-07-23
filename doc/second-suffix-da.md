@@ -1,6 +1,6 @@
 # Syllables with second suffix ད
 
-This page is an attempt to list the syllables having invisible second suffix ད, for spell-checking purpose.
+This page is an attempt to list the syllables having invisible second suffix ད (ད་དྲག), for spell-checking purpose.
 
 ## non-verbs
 
