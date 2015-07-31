@@ -7,6 +7,7 @@ The files are based on the [documentation](../doc/standard-syllable-structure.md
 - all syllables with wasurs have been listed instead of allowing all wasurs possibilities
 - all syllables with suffix འི, འོ, or འུ have been listed instead of allowing them all
 - the syllables composed with ཧྤ are allowed, as they appear in many foreign names (country names for instance)
+- archaic forms are not included
 
 ### Dictionary files (.txt)
 
