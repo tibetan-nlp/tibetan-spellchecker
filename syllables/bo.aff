@@ -1,0 +1,74 @@
+SET UTF-8
+LANGCODE bo_CN
+# Currently, we consider an unbreakable tshegs to break words. In a future
+# version, it might be good to remove it, and to have also words of two 
+# syllables in the dictionnary (much more complex to extract)
+BREAK 8
+BREAK ་
+BREAK ˆ་
+BREAK ་$
+BREAK ˆ།
+BREAK །$
+BREAK ༌
+BREAK ˆ༌
+BREAK ༌$
+
+WORDCHARS ༠༡༢༣༤༥༦༧༨༩།༈༄༅༏་
+
+NEEDAFFIX na
+
+# for words with no suffix
+SFX C Y 6
+SFX C 0 འི . +'brel_sgra
+SFX C 0 འོ . +slar_bsdu
+SFX C 0 ར . +la_don
+SFX C 0 ས . +byed_sgra
+SFX C 0 འང . +rgyan_sdud
+SFX C 0 འམ . +'byed_sdud
+
+
+SFX A Y 3
+SFX A 0 ༷/naNV . +ngas_bsung_sgor_rtags
+SFX A 0 ༵/naNV . +ngas_bsung_nyi_zla
+SFX A 0 /naNV .
+
+SFX B Y 3
+SFX B 0 ༷/V . +ngas_bsung_sgor_rtags
+SFX B 0 ༵/V . +ngas_bsung_nyi_zla
+SFX B 0 /V .
+
+SFX NV Y 5
+SFX NV 0 ི/S . +i
+SFX NV 0 ུ/S . +u
+SFX NV 0 ེ/S . +e
+SFX NV 0 ོ/S . +o
+SFX NV 0 /naS1 .
+
+SFX V Y 5
+SFX V 0 ི/S . +i
+SFX V 0 ུ/S . +u
+SFX V 0 ེ/S . +e
+SFX V 0 ོ/S . +o
+SFX V 0 /S .
+
+SFX S Y 16
+SFX S 0 ག . +g
+SFX S 0 གས . +gs
+SFX S 0 ང . +ng
+SFX S 0 ངས . +ngs
+SFX S 0 ད . +d
+SFX S 0 ན . +n
+SFX S 0 བ . +b
+SFX S 0 བས . +bs
+SFX S 0 མ . +m
+SFX S 0 མས . +ms
+SFX S 0 འི . +'brel_sgra
+SFX S 0 འོ . +slar_bsdu
+SFX S 0 འང . +rgyan_sdud
+SFX S 0 འམ . +'byed_sdud
+SFX S 0 ར . +r
+SFX S 0 ས . +s
+
+
+SFX S1
+
