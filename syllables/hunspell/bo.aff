@@ -5,7 +5,7 @@ LANGCODE bo
 # This means that a syllable containing these signs at invalid places will not
 # be detected by the spell checker, but this makes the code more simple at
 # almost no cost
-IGNORE ༷ ༵
+IGNORE ༵༷
 
 NOSPLITSUGS
 
