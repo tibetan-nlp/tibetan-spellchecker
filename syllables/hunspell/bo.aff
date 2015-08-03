@@ -1,31 +1,11 @@
 SET UTF-8
 LANGCODE bo
-# I'm not sure all these are necessary...
-BREAK 15
-BREAK ་
-BREAK ˆ་
-BREAK ་$
-BREAK ˆ།
-BREAK །$
-BREAK ༎$
-BREAK ༌
-BREAK ˆ༌
-BREAK ༌$
-BREAK ༽
-BREAK ˆ༽
-BREAK ༽$
-BREAK ༼
-BREAK ˆ༼
-BREAK ༼$
 
 # ignoring Ux0F35 and Ux0F37, as they are extremely rare but valid.
 # This means that a syllable containing these signs at invalid places will not
 # be detected by the spell checker, but this makes the code more simple at
 # almost no cost
 IGNORE ༷ ༵
-
-# Not sure if these are necessary...
-WORDCHARS ༠༡༢༣༤༥༦༧༨༩༪༫༬༭༮༯༰༱༲༳
 
 NOSPLITSUGS
 
