@@ -7,14 +7,13 @@
     <em:version>0.1</em:version>
     <em:type>64</em:type>
     <em:creator>Elie Roux</em:creator>
-    <em:contributor>Xavier Faure</em:contributor>
     <em:homepageURL>https://github.com/eroux/tibetan-spellchecker</em:homepageURL>
     <em:targetApplication>
     <!-- Any Mozilla toolkit -->
       <Description>
         <em:id>toolkit@mozilla.org</em:id>
         <em:minVersion>19.0</em:minVersion>
-        <em:maxVersion>31.0</em:maxVersion>
+        <em:maxVersion>39.0</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication>
@@ -22,7 +21,7 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>19.0</em:minVersion><!-- rather arbitrary, only tested with 21.0 -->
-        <em:maxVersion>22.0</em:maxVersion><!-- last tested -->
+        <em:maxVersion>39.0</em:maxVersion><!-- last tested -->
       </Description>
     </em:targetApplication>
     <em:targetApplication>
@@ -38,7 +37,7 @@
       <Description>
         <em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
         <em:minVersion>19.0</em:minVersion>
-        <em:maxVersion>22.0</em:maxVersion>
+        <em:maxVersion>39.0</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:name>Tibetan Spellcheck</em:name>

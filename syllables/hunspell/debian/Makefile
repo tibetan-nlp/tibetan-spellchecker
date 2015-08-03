@@ -1,6 +1,6 @@
 DEBIAN_FILES = changelog copyright rules compat hunspell-bo.info-hunspell hunspell-bo.links source control hunspell-bo.docs hunspell-bo.install
 
-ORIG_FILES = ../README ../bo.dic ../bo.aff
+ORIG_FILES = ../README.md ../bo.dic ../bo.aff
 
 VERSION = 0.1
 

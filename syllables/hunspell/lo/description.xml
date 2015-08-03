@@ -12,9 +12,6 @@
     <!--<dependencies>
         <OpenOffice.org-minimal-version value="4.1" d:name="LibreOffice 4.1" />
     </dependencies>-->
-    <icon>
-        <default xlink:href="icon.png" />
-    </icon>
     <publisher>
         <name xlink:href="https://github.com/eroux/tibetan-spellchecker" lang="en">Elie Roux</name>
     </publisher>
