@@ -1,4 +1,0 @@
-This extension provides tibetan spellchecking at syllable
-level (not composed words).
-
-You can file bugreports at https://github.com/eroux/tibetan-spellchecker/issues

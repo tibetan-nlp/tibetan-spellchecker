@@ -1,11 +1,11 @@
-Tibetan spellchecker
+Tibetan spellchecker Resources
 ===
 
-This repository provides resources to build Tibetan spellcheckers, as well as some compiled ones.
+This repository provides resources to build Tibetan spellcheckers, and pointer to existing ones.
 
-This is work in progress.
+The resources are mainly the various [documents](doc/).
 
-You might be interested in the different [documents](doc/) before starting, and you can explore the [syllables](syllables) directory, containing a spellchecker at syllable level, and the corresponding hunspell files.
+The [syllables](syllables) directory, containing resources for checking tibetan syllables, and pointer to applications built from it.
 
 ##License
 

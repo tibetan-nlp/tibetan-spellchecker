@@ -13,7 +13,7 @@ The files are based on the [documentation](../doc/standard-syllable-structure.md
 
 ### Dictionary files (.txt)
 
-These files are in a format similar to hunspell .dic files, with the exception that the suffix type may not include the "empty string" suffix (which it always does in hunspell).
+These files are in hunspell .dic format (easily parsable) their names should be explicit.
 
 ### Suffix files (.json)
 
@@ -21,10 +21,6 @@ This file is in a json format and simply lists the possible suffixes for all suf
 
 ### Usage
 
-The currently only way to use these files is through [hunspell](http://hunspell.sourceforge.net/), see the [hunspell/](hunspell) directory.
+The currently only way to use these files is through [hunspell](http://hunspell.sourceforge.net/), see [hunspell-bo](https://github.com/eroux/hunspell-bo) for an implementation.
 
-#### Note about Microsoft
-  Microsoft officially integrates only dictionaries that have been validated
-  by an official linguistic authority. In the case of Tibetan, this is no
-  easy thing.
-
+Microsoft officially integrates only dictionaries that have been validated by an official linguistic authority, so this is not currently possible to use this work with Microsoft products.
